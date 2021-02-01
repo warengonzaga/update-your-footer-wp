@@ -2,8 +2,8 @@
 /**
 * Plugin Name: WP Update Your Footer
 * Plugin URI: https://warengonzaga.com/wp-update-your-footer
-* Description: Automatically update your footer copyright year.
-* Version: 1.0.0
+* Description: A WordPress shortcode plugin to automagically update your copyright notice year. Simple and lightweight, no annoying ads and fancy settings.
+* Version: 1.0.1
 * Author: Waren Gonzaga
 * Author URI: https://warengonzaga.com
 */
