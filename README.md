@@ -1,6 +1,6 @@
 # Update Your Footer WP
 
-[![by Waren Gonzaga](https://img.shields.io/badge/by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://bmc.xyz/warengonzaga) ![Version](https://img.shields.io/github/release/WarenGonzaga/update-your-footer-wp.svg?style=flat-square) ![Stars](https://img.shields.io/github/stars/WarenGonzaga/update-your-footer-wp.svg?style=flat-square) ![Size](https://img.shields.io/github/repo-size/warengonzaga/update-your-footer-wp?color=green&style=flat-square)![License](https://img.shields.io/github/license/WarenGonzaga/update-your-footer-wp.svg?style=flat-square)
+[![by Waren Gonzaga](https://img.shields.io/badge/by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://bmc.xyz/warengonzaga) ![Version](https://img.shields.io/github/release/WarenGonzaga/update-your-footer-wp.svg?style=flat-square) ![Stars](https://img.shields.io/github/stars/WarenGonzaga/update-your-footer-wp.svg?style=flat-square) ![Size](https://img.shields.io/github/repo-size/warengonzaga/update-your-footer-wp?color=green&style=flat-square) ![License](https://img.shields.io/github/license/warengonzaga/update-your-footer-wp.svg?style=flat-square)
 
 A WordPress shortcode plugin to automagically update your copyright notice year. Simple and lightweight, no annoying ads and fancy settings. Ready to use just plug and play.
 
