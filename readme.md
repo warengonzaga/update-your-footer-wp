@@ -45,7 +45,7 @@ For any questions, suggestions, ideas, or simply you want to share your experien
 
 ## 🐛 Issues
 
-If you're facing a problem in using WRN Fix IT please let me know by [creating an issue here](https://github.com/warengonzaga/wrn-fix-it/issues/new). I'm here to help you!
+If you're facing a problem in using Update Your Footer WP please let me know by [creating an issue here](https://github.com/warengonzaga/wrn-fix-it/issues/new). I'm here to help you!
 
 ## 🍀 Sponsors and Supporters
 
@@ -72,11 +72,11 @@ Read the project's [code of conduct](./code_of_conduct.md).
 
 ## 📃 License
 
-WRN Fix IT is licensed under [GNU General Public License v3](https://opensource.org/licenses/GPL-3.0).
+Update Your Footer WP is licensed under [GNU General Public License v3](https://opensource.org/licenses/GPL-3.0).
 
 ## 📝 Author
 
-WRN Fix IT is created by **[Waren Gonzaga](https://github.com/warengonzaga)**, with the help of awesome [contributors](https://github.com/warengonzaga/wrn-fix-it/graphs/contributors).
+Update Your Footer WP is created by **[Waren Gonzaga](https://github.com/warengonzaga)**, with the help of awesome [contributors](https://github.com/warengonzaga/wrn-fix-it/graphs/contributors).
 
 ---
 
