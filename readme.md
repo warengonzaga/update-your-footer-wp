@@ -20,7 +20,7 @@ The complete documentation can be found here:<br/>
 To be able to start using this plugin just [download the latest release here](https://github.com/warengonzaga/update-your-footer-wp/releases/latest).
 
 - Upload the plugin (.zip file) to the /wp-content/plugins/ directory.
-- Activate the WP Disease Tracker WordPress plugin through the 'Plugins' menu in WordPress.
+- Activate the Update Your Footer WP plugin through the 'Plugins' menu in WordPress.
 - Use the shortcodes from Update Your Footer WP into your site's footer.
 
 ## 🕹️ Usage
