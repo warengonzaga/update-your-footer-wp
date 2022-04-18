@@ -1,19 +1,18 @@
-# Update Your Footer WP
+# Update Your Footer WP [![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev)
 
-[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![discord](https://img.shields.io/discord/659684980137656340?color=%235865F2&label=discord&logo=discord&logoColor=white&style=flat-square)](https://wrngnz.ga/discord) [![release](https://img.shields.io/github/release/warengonzaga/update-your-footer-wp.svg?style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/releases) [![star](https://img.shields.io/github/stars/warengonzaga/update-your-footer-wp.svg?style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/update-your-footer-wp.svg?style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/blob/main/license)
+[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/update-your-footer-wp.svg?style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/releases) [![star](https://img.shields.io/github/stars/warengonzaga/update-your-footer-wp.svg?style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/update-your-footer-wp.svg?style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/blob/main/license)
 
-A WordPress shortcode plugin to automagically update your copyright notice year. Simple and lightweight, no annoying ads and fancy settings. Ready to use just plug and play.
+> 📢 Nominate ([@warengonzaga](https://warengonzaga.com)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to open source.
 
-## 😎 Demo
+---
 
-(coming soon...)
+Simple and lightweight WordPress shortcode plugin to automagically update your footer year notice. No annoying ads! ✨💻🧩
+
+Ready to use just plug and play. 🤘
 
 ## 📖 Documentation
 
-<!-- <!-- markdownlint-disable MD033 -->
-The complete documentation can be found here:<br/>
-[![Docs](https://img.shields.io/badge/Docs-docs.warengonzaga.com/update--your--footer--wp-blue.svg?longCache=true&style=for-the-badge)](https://docs.warengonzaga.com/update-your-footer-wp)
-<!-- <!-- markdownlint-enable MD033 -->
+Learn more: _[docs.warengonzaga.com/update-your-footer-wp](https://docs.warengonzaga.com/update-your-footer-wp)_
 
 ## 📦 Installation
 
@@ -21,7 +20,7 @@ To be able to start using this plugin just [download the latest release here](ht
 
 - Upload the plugin (.zip file) to the /wp-content/plugins/ directory.
 - Activate the Update Your Footer WP plugin through the 'Plugins' menu in WordPress.
-- Use the shortcodes from Update Your Footer WP into your site's footer.
+- Use the shortcodes from Update Your Footer WP into your site's footer. (see usage below)
 
 ## 🕹️ Usage
 
@@ -39,36 +38,20 @@ It will appear like this...
 
 Contributions are welcome, create a pull request to this repo and I will review your code. Please consider to submit your pull request to the ```dev``` branch. Thank you!
 
-## 💬 Discussions
-
-For any questions, suggestions, ideas, or simply you want to share your experience in using this project, feel free to share and discuss it to the [community](https://github.com/warengonzaga/wrn-fix-it/discussions)!
-
 ## 🐛 Issues
 
-If you're facing a problem in using Update Your Footer WP please let me know by [creating an issue here](https://github.com/warengonzaga/wrn-fix-it/issues/new). I'm here to help you!
+If you're facing a problem in using Update Your Footer WP please let me know by [creating an issue here](https://github.com/warengonzaga/update-your-footer-wp/issues/new/chose). I'm here to help you!
 
 ## 🍀 Sponsors and Supporters
 
-[![BuyMeaCoffee](https://wrngnz.ga/badge-buymeacoffee)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://wrngnz.ga/badge-vercel)](https://vercel.com) [![CircleCI](https://wrngnz.ga/badge-circleci)](https://vercel.com) [![GitBook](https://wrngnz.ga/badge-gitbook)](https://gitbook.io) [![Digital Ocean](https://wrngnz.ga/badge-digitalocean)](https://digitalocean.com) [![Deepware](https://wrngnz.ga/badge-deepware)](https://deepware.ai/) [![NOWPayments](https://wrngnz.ga/badge-nowpayments)](https://nowpayments.io) [![StackHawk](https://img.shields.io/badge/Stackhawk-%2300CBC6.svg?&style=for-the-badge&logoColor=white)](https://stackhawk.com)
-
-<!-- markdownlint-disable MD033 -->
-> Love what I do? **[Send me some coffees](https://buymeacoff.ee/wareneutron)**!<br/>
-> Your coffee donation and support will help me to continue working on open-source projects like this.
-<!-- markdownlint-disable MD033 -->
-
-## 🌏 Community
-
-Looking for community of Filipino tech enthusiasts?
-
-[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner3)](https://wrngnz.ga/discord)
-
-Wanna contribute to my projects? Join today and contribute!
-
-[![Community](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner2)](https://wareneutron.com/discord)
+> Love what I do? **[Send me some coffees](https://warengonzaga.com/donate)**! ☕☕☕
+>
+> Can't send coffees? 😥 Nominate me for a **[GitHub Star](https://stars.github.com/nominate)** instead!
+> Your coffee donation and support will help me to continue working on open-source projects like this. 🙏😇
 
 ## 📋 Code of Conduct
 
-Read the project's [code of conduct](./code_of_conduct.md).
+Read the project's [code of conduct](./CODE_OF_CONDUCT.md).
 
 ## 📃 License
 
@@ -76,16 +59,10 @@ Update Your Footer WP is licensed under [GNU General Public License v3](https://
 
 ## 📝 Author
 
-Update Your Footer WP is created by **[Waren Gonzaga](https://github.com/warengonzaga)**, with the help of awesome [contributors](https://github.com/warengonzaga/wrn-fix-it/graphs/contributors).
+Update Your Footer WP is created by **[Waren Gonzaga](https://github.com/warengonzaga)**, with the help of awesome [contributors](https://github.com/warengonzaga/update-your-footer-wp/graphs/contributors).
+
+[![contributors](https://contrib.rocks/image?repo=warengonzaga/update-your-footer-wp)](https://github.com/warengonzaga/update-your-footer-wp/graphs/contributors)
 
 ---
 
-💻 Made with 💖 and ☕ by **Waren Gonzaga** with **YHWH** 🙏 | Citizen of Heaven
-
-[personal website]: https://warengonzaga.com
-[business website]: https://wgcompanyhq.com
-[biolink]: https://bio.link/warengonzaga
-[facebook]: https://facebook.com/warengonzagaofficial
-[twitter]: https://twitter.com/warengonzaga
-[instagram]: https://instagram.com/warengonzagaofficial
-[youtube]: https://youtube.com/warengonzaga
+💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏

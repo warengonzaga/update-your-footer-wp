@@ -6,8 +6,8 @@ Requires at least: 5.0
 Tested up to: 5.9
 Requires PHP: 5.6
 Stable tag: 1.1.2
-License: GPL-3.0
-License: https://opensource.org/licenses/GPL-3.0
+License: GPLv3
+License URI: https://opensource.org/licenses/GPL-3.0
 
 Simple and lightweight WordPress shortcode plugin to automagically update your footer year notice. No annoying ads!
 
