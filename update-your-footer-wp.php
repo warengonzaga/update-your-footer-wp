@@ -2,8 +2,8 @@
 /**
 * Plugin Name: Update Your Footer WP
 * Plugin URI: https://github.com/warengonzaga/update-your-footer-wp
-* Description: A WordPress shortcode plugin to automagically update your copyright notice year. Simple and lightweight, no annoying ads and fancy settings.
-* Version: 1.1.2
+* Description: Simple and lightweight WordPress shortcode plugin to automagically update your footer year notice. No annoying ads!
+* Version: 1.1.4
 * Author: Waren Gonzaga
 * Author URI: https://warengonzaga.com
 */
@@ -16,14 +16,17 @@
 defined( 'ABSPATH' ) or die( "Restricted Access!" );
 
 function update_your_footer($atts) {
-    $copyright = 'Copyright &copy;';
-    $year = date('Y');
-    $sitename = '<a href="'. get_bloginfo('url') . '" target="_blank">' . get_bloginfo('name') . '</a>';
-    $all_rights_reserved = 'All Rights Reserved';
-    $notice = $copyright . ' ' . $year . ' ' . $sitename . ', ' . $all_rights_reserved . '.';
 
-    // final notice
-    return $notice;
+    // wp data
+    $year = date('Y');
+    $site_url = get_bloginfo('url');
+    $site_name = get_bloginfo('name');
+
+    // set footer contents
+    $footer_content = 'Copyright &copy; ' . esc_html( $year ) . ' <a href="' . esc_url( $site_url ) . '">' . esc_html( $site_name ) . '</a>, All Rights Reserved.';
+
+    // output footer contents
+    return $footer_content;
 }
 
 // wordpress hook
