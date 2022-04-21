@@ -5,7 +5,7 @@ Tags: simple, basic, update, footer, shortcodes
 Requires at least: 5.0
 Tested up to: 5.9
 Requires PHP: 5.6
-Stable tag: 1.1.2
+Stable tag: 1.2.0
 License: GPLv3
 License URI: https://opensource.org/licenses/GPL-3.0
 
@@ -19,7 +19,7 @@ Simple, lightweight, and free WordPress shortcode plugin for you to use in your 
 
 Simply copy the shortcode below and paste it to the location of your copyright notice by default on your site's footer.
 
-`[wp_uyf]`
+`[uyf_wp]`
 
 It will appear like this...
 
