@@ -27,7 +27,7 @@ To be able to start using this plugin just [download the latest release here](ht
 Simply copy the shortcode below and paste it to the location of your copyright notice by default on your site's footer.
 
 ```php
-[wp_uyf]
+[uyf_wp]
 ```
 
 It will appear like this...
