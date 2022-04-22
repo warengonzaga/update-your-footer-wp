@@ -1,12 +1,12 @@
 # Update Your Footer WP [![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev)
 
-[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/update-your-footer-wp.svg?style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/releases) [![star](https://img.shields.io/github/stars/warengonzaga/update-your-footer-wp.svg?style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/update-your-footer-wp.svg?style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/blob/main/license)
+[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/update-your-footer-wp.svg?style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/releases) [![star](https://img.shields.io/github/stars/warengonzaga/update-your-footer-wp.svg?style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/stargazers) [![installs](https://img.shields.io/wordpress/plugin/installs/update-your-footer-wp?style=flat-square)](https://wordpress.org/plugins/update-your-footer-wp) [![license](https://img.shields.io/github/license/warengonzaga/update-your-footer-wp.svg?style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/blob/main/license)
 
 > 📢 Nominate ([@warengonzaga](https://warengonzaga.com)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to open source.
 
----
+![banner](.github/assets/banner-1544x500.jpg)
 
-Simple and lightweight WordPress shortcode plugin to automagically update your footer year notice. No annoying ads! ✨💻🧩
+Simple and lightweight WordPress shortcode plugin to automagically update your footer year notice. No annoying ads! 📅💻🧩
 
 Ready to use just plug and play. 🤘
 
@@ -36,11 +36,13 @@ It will appear like this...
 
 ## 🎯 Contributing
 
-Contributions are welcome, create a pull request to this repo and I will review your code. Please consider to submit your pull request to the ```dev``` branch. Thank you!
+Contributions are welcome, create a pull request to this repo and I will review your code. Please consider to submit your pull request to the `dev` branch. Thank you!
+
+Read the project's [contributing guide](./CONTRIBUTING.md) for more info.
 
 ## 🐛 Issues
 
-If you're facing a problem in using Update Your Footer WP please let me know by [creating an issue here](https://github.com/warengonzaga/update-your-footer-wp/issues/new/chose). I'm here to help you!
+Please report any issues and bugs by [creating a new issue here](https://github.com/warengonzaga/update-your-footer-wp/issues/new/choose), also make sure you're reporting an issue that doesn't exist. Any help to improve the project would be appreciated. Thanks! 🙏✨
 
 ## 🍀 Sponsors and Supporters
 
