@@ -3,7 +3,7 @@
 * Plugin Name: Update Your Footer WP
 * Plugin URI: https://github.com/warengonzaga/update-your-footer-wp
 * Description: Simple and lightweight WordPress shortcode plugin to automagically update your footer year notice. No annoying ads!
-* Version: 1.2.0
+* Version: 1.2.1
 * Author: Waren Gonzaga
 * Author URI: https://warengonzaga.com
 */
