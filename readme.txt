@@ -2,8 +2,8 @@
 Contributors: warengonzaga
 Donate link: https://warengonzaga.com/donate
 Tags: simple, basic, update, year, footer, shortcodes
-Requires at least: 5.0
-Tested up to: 5.9
+Requires at least: 2.8.0
+Tested up to: 6.0.3
 Requires PHP: 5.6
 Stable tag: 1.2.1
 License: GPLv3
