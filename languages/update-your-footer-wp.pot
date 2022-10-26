@@ -1,0 +1,43 @@
+# Copyright (C) 2022 Waren Gonzaga
+# This file is distributed under the same license as the Update Your Footer WP plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Update Your Footer WP 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/update-your-footer-wp\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-10-26T05:39:33+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: uyf_wp\n"
+
+#. Plugin Name of the plugin
+msgid "Update Your Footer WP"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/warengonzaga/update-your-footer-wp"
+msgstr ""
+
+#. Description of the plugin
+msgid "Simple and lightweight WordPress shortcode plugin to automagically update your footer year notice. No annoying ads!"
+msgstr ""
+
+#. Author of the plugin
+msgid "Waren Gonzaga"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://warengonzaga.com"
+msgstr ""
+
+#: update-your-footer-wp.php:27
+msgid "Copyright"
+msgstr ""
+
+#: update-your-footer-wp.php:27
+msgid "All Rights Reserved"
+msgstr ""

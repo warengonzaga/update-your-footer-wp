@@ -6,6 +6,8 @@
 * Version: 1.2.1
 * Author: Waren Gonzaga
 * Author URI: https://warengonzaga.com
+* Text Domain: update-your-footer-wp
+* Domain Path: /languages
 */
 
 /**
@@ -23,7 +25,7 @@ function update_your_footer( $atts ) {
     $site_name = get_bloginfo( 'name' );
 
     // output data
-    return 'Copyright &copy; ' . esc_html( $year ) . ' <a href="' . esc_url( $site_url ) . '">' . esc_html( $site_name ) . '</a>, All Rights Reserved.';
+    return __( 'Copyright', 'update-your-footer-wp' ) . ' &copy; ' . esc_html( $year ) . ' <a href="' . esc_url( $site_url ) . '">' . esc_html( $site_name ) . '</a>, ' . __( 'All Rights Reserved', 'update-your-footer-wp' ) . '.';
 }
 
 // wordpress hook
