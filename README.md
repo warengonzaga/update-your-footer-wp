@@ -1,6 +1,6 @@
-# Update Your Footer WP [![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev)
+# Update Your Footer WP [![by](https://img.shields.io/badge/by-Waren%20Gonzaga-fe59ae.svg?longCache=true&labelColor=181717&style=flat-square)](https://warengonzaga.com)
 
-[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/update-your-footer-wp.svg?style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/releases) [![star](https://img.shields.io/github/stars/warengonzaga/update-your-footer-wp.svg?style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/stargazers) [![installs](https://img.shields.io/wordpress/plugin/installs/update-your-footer-wp?style=flat-square)](https://wordpress.org/plugins/update-your-footer-wp) [![license](https://img.shields.io/github/license/warengonzaga/update-your-footer-wp.svg?style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/blob/main/license)
+[![maintainer](https://img.shields.io/badge/maintainer-Waren%20Gonzaga-016eea.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://warengonzaga.com) [![sponsors](https://img.shields.io/badge/sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/update-your-footer-wp.svg?logo=github&labelColor=181717&color=green&style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/releases) [![star](https://img.shields.io/github/stars/warengonzaga/update-your-footer-wp.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/update-your-footer-wp.svg?&logo=github&labelColor=181717&style=flat-square)](https://github.com/warengonzaga/update-your-footer-wp/blob/main/license)
 
 ![banner](.github/assets/banner-1544x500.jpg)
 
@@ -34,7 +34,9 @@ It will appear like this...
 
 If you want to add starting year using `year` attribute, it will appear like this...
 
-`[uyf_wp year="2020"]`
+```php
+[uyf_wp year="2020"]
+```
 
 It will appear like this...
 
