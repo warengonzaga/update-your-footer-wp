@@ -5,7 +5,7 @@ Tags: simple, basic, update, year, footer, shortcodes
 Requires at least: 2.8.0
 Tested up to: 6.4.0
 Requires PHP: 7.4
-Stable tag: 1.2.2
+Stable tag: 1.2.3
 License: GPLv3
 License URI: https://opensource.org/licenses/GPL-3.0
 
