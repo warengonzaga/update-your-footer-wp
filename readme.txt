@@ -23,6 +23,14 @@ It will appear like this...
 
 > Copyright © 20xx Site Name, All Rights Reserved.
 
+If you want to add starting year using `year` attribute, it will appear like this...
+
+`[uyf_wp year="2020"]`
+
+It will appear like this...
+
+> Copyright © 2020-20xx Site Name, All Rights Reserved.
+
 == Frequently Asked Questions ==
 
 = When to use this? =

@@ -32,11 +32,19 @@ It will appear like this...
 
 > Copyright &copy; 20xx Site Name, All Rights Reserved.
 
+If you want to add starting year using `year` attribute, it will appear like this...
+
+`[uyf_wp year="2020"]`
+
+It will appear like this...
+
+> Copyright &copy; 2020-20xx Site Name, All Rights Reserved.
+
 ## 🎯 Contributing
 
 Contributions are welcome, create a pull request to this repo and I will review your code. Please consider to submit your pull request to the `dev` branch. Thank you!
 
-Read the project's [contributing guide](./CONTRIBUTING.md) for more info.
+Read the project's [contributing guide](./contributing.md) for more info.
 
 ## 🐛 Issues
 
@@ -51,7 +59,7 @@ Please report any issues and bugs by [creating a new issue here](https://github.
 
 ## 📋 Code of Conduct
 
-Read the project's [code of conduct](./CODE_OF_CONDUCT.md).
+Read the project's [code of conduct](./code_of_conduct.md).
 
 ## 📃 License
 
