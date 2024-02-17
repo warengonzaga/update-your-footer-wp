@@ -3,16 +3,16 @@ Contributors: warengonzaga
 Donate link: https://warengonzaga.com/donate
 Tags: simple, basic, update, year, footer, shortcodes
 Requires at least: 2.8.0
-Tested up to: 6.0.3
-Requires PHP: 5.6
+Tested up to: 6.4.0
+Requires PHP: 7.4
 Stable tag: 1.2.2
 License: GPLv3
 License URI: https://opensource.org/licenses/GPL-3.0
 
-Simple and lightweight WordPress shortcode plugin to automagically update your footer year notice. No annoying ads!
+Simple and lightweight WordPress shortcode plugin to automatically update your footer year notice. No annoying ads!
 
 == Description ==
-Simple, lightweight, and free WordPress shortcode plugin for you to use in your website to automagically update your footer year. You don't need to update your footer year every year just use the shortcode and you're good to go!
+Simple, lightweight, and free WordPress shortcode plugin for you to use in your website to automatically update your footer year. You don't need to update your footer year every year just use the shortcode and you're good to go!
 
 == Usage ==
 Simply copy the shortcode below and paste it to the location of your copyright notice by default on your site's footer.
